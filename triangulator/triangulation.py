@@ -1,0 +1,1 @@
+"""Algorithme de triangulation."""
